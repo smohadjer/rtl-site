@@ -36,6 +36,11 @@ nav ul {
 }
 
 header .logo {
+	margin-right: 20px;
+	margin-left: 0;
+}
+
+[dir=rtl] header .logo {
 	margin-right: 0;
 	margin-left: 20px;
 }
